@@ -8,21 +8,8 @@
 - 🎓 Major in **Internet of Things Engineering**
 - 🤖 Interested in **Artificial Intelligence, AI Agents and LLM Applications**
 - 💻 Programming Languages: **Python, C, Java**
-- 🧠 Currently learning:
-  - AI Agent Development
-  - Machine Learning
-  - LLM Applications
-  - Backend Systems
+- 🧠 Currently learning **AI Agent Development, Machine Learning, LLM Applications and Backend Systems**
 - 📫 Email: **sun.sunsh1ne0109@gmail.com**
-
----
-
-## 🧠 Current Focus
-
-- 🤖 AI Agent Development
-- 🧠 Large Language Model Applications
-- 🔧 AI Tools & Automation
-- 🌐 Intelligent Systems
 
 ---
 
@@ -33,41 +20,26 @@
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 
-### AI / Data
-![Machine Learning](https://img.shields.io/badge/MachineLearning-green?style=for-the-badge)
-![AI](https://img.shields.io/badge/ArtificialIntelligence-black?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-purple?style=for-the-badge)
-
 ### Tools
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-
 
 ---
 
 ## 📊 GitHub Stats
 
-![Qihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sun-sunshine06&show_icons=true&theme=tokyonight)
+![Qihan's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sun-sunshine06&theme=github_dark)
 
 ---
 
 ## 📈 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sun-sunshine06&layout=compact&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sun-sunshine06&theme=github_dark)
 
 ---
 
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sun-sunshine06&theme=tokyonight)
-
----
-
-## 🎯 2026 Goals
-
-- Build **AI Agent Projects**
-- Learn **Deep Learning**
-- Develop **LLM Applications**
-- Contribute to **Open Source AI Projects**
 
 ---
 
